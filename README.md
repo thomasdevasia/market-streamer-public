@@ -44,17 +44,21 @@ Screenshots and demo videos of the current progress are included below.
 ## Media
 
 ### Dashboard Example
-
-![Ticker Data](./media/ticker_data.png)
-![SMA](./media/simple_moving_average.png)
-![RSI](./media/relative_strength_index.png)
-![Black-Scholes](./media/Black_Scholes_pricing_model.png)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <img src="./media/ticker_data.png" alt="Ticker Data"  width="48%" />
+  <img src="./media/simple_moving_average.png" alt="SMA" width="48%"  />
+  <img src="./media/relative_strength_index.png" alt="RSI" width="48%" />
+  <img src="./media/Black_Scholes_pricing_model.png" alt="Black-Scholes" width="48%"  />
+</div>
 
 ### Chat Interface with AI Agent
 
 ![Tickers SMA RSI](./media/ticker.gif)
-![Black-Scholes](./media/balck_scholes.mp4)
-![Backtest](./media/ms_backtest.mp4)
+
+https://github.com/user-attachments/assets/e0b633cb-2d9e-4a0e-a489-802c55dcee11
+
+
+https://github.com/user-attachments/assets/64ad3473-1da7-40a2-857a-319116671495
 
 ---
 
