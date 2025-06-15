@@ -44,13 +44,17 @@ Screenshots and demo videos of the current progress are included below.
 ## Media
 
 ### Dashboard Example
-![Dashboard Screenshot](images/dashboard.png)
+
+![Ticker Data](./media/ticker_data.png)
+![SMA](./media/simple_moving_average.png)
+![RSI](./media/relative_strength_index.png)
+![Black-Scholes](./media/Black_Scholes_pricing_model.png)
 
 ### Chat Interface with AI Agent
-![Chat Screenshot](images/chat.png)
 
-### Demo Video
-[![Watch the demo](images/demo-thumbnail.png)](https://your-demo-video-link.com)
+![Tickers SMA RSI](./media/ticker.gif)
+![Black-Scholes](./media/balck_scholes.mp4)
+![Backtest](./media/ms_backtest.mp4)
 
 ---
 
