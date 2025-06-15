@@ -4,6 +4,12 @@
 
 ---
 
+## Note
+
+This project is still in development. This README is part of a public repository to share the concept and progress. The source code itself is in a private repository.  
+If you're interested in the project, want to collaborate, or would like access to the code, feel free to contact me directly.
+---
+
 ## Project Overview
 
 The goal is to build a native application (with browser support via WebAssembly) that lets users do common market analysis tasks like charting, technical analysis, and backtesting. But the important part is the integration of an AI agent — an assistant that can understand natural language and interact with all parts of the system. Instead of just clicking through menus or writing code, users can also chat with the AI to supercharge their workflow and decision-making.
@@ -67,10 +73,3 @@ https://github.com/user-attachments/assets/64ad3473-1da7-40a2-857a-319116671495
 - Begin development of the native C++ UI using Raygui
 - Integrate additional exchanges and technical indicators
 - Start preparing for web deployment using Emscripten and WebAssembly
-
----
-
-## Note
-
-This project is still in development. This README is part of a public repository to share the concept and progress. The source code itself is in a private repository.  
-If you're interested in the project, want to collaborate, or would like access to the code, feel free to contact me directly.
