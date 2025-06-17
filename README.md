@@ -24,6 +24,7 @@ The goal is to build a native application (with browser support via WebAssembly)
 - **MCP + Agent (Python):** A natural language agent that helps users interact with the system and understand strategies.
 - **Database (TimescaleDB):** Stores historical market data.
 - **UI (C++ with Raygui):** Native interface for the app. Will be ported to the web using Emscripten and WASM.
+- **gRPC:** For inter service communication 
 
 ---
 
