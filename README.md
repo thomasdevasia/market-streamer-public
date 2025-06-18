@@ -60,7 +60,8 @@ Screenshots and demo videos of the current progress are included below.
 
 ### Chat Interface with AI Agent
 
-![Tickers SMA RSI](./media/ticker.gif)
+https://github.com/user-attachments/assets/0b9d47ba-f6ef-499b-ac3c-1007df0c3532
+
 
 https://github.com/user-attachments/assets/e0b633cb-2d9e-4a0e-a489-802c55dcee11
 
